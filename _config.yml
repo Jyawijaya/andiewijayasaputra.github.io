@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Andie Wijaya Saputra"
 title_separator          : "-"
 name                     : &name "Andie Wijaya Saputra"
 description              : &description "Master student"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Andie Wijaya Saputra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Master Student"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
